@@ -15,3 +15,38 @@ To conduct a comprehensive analysis of Swiggy Instamart's sales performance, cus
 
 ## Screenshots
 <a href ="https://github.com/darshant15/Data-Analysis-Dashboard-On-Swiggy-Instamart-Sales-Report-/commit/03f450ebe733933eb48e4b187ce8549c047f3f4e">Screenshots</a>
+
+## KPI Questions for the Excel Dashboard Project
+
+1. Total Sales: The overall revenue generated from all items sold.
+2. Average Sales: The average revenue per sale.
+3. Number of Items: The total count of different items sold.
+4. Average Rating: The average customer rating for items sold
+
+## Key Features
+
+Data Cleaning & Preparation: Utilized Power Query to clean and structure raw sales data for analysis.
+
+Dynamic Dashboard: Developed an interactive dashboard with slicers and pivot charts to filter and visualize data across various dimensions.
+
+Insightful Visualizations: Created charts to depict sales trends, top-performing products, and regional performance metrics.
+
+User-Friendly Interface: Designed the dashboard for ease of use, enabling stakeholders to interact with data seamlessly.
+
+## Key areas included:
+
+In my recent Excel dashboard project for Swiggy Instamart, I focused on analyzing sales data across multiple dimensions to gain actionable insights
+
+*Sales by Fat Content: Understanding how fat content affects total sales and other KPIs using a donut chart.
+
+*Sales by Item Type: Comparing performance of different product types with bar charts.
+
+*Sales by Outlet & Fat Content: Looking at total sales across outlets segmented by fat content with stacked columns.
+
+*Sales by Out let Establishment: Evaluating the impact of outlet age/type on sales.
+
+*Sales by Outlet Size: Exploring how outlet size correlates with sales using pie charts.
+
+*Sales by Location: Mapping sales distribution geographically with funnel maps.
+
+*Overall Metrics by Outlet Type: A matrix card showing total sales, average sales, items sold, and ratings by outlet type.

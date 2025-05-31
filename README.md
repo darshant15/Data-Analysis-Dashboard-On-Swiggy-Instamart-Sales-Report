@@ -11,3 +11,4 @@ To conduct a comprehensive analysis of Swiggy Instamart's sales performance, cus
 <a href ="https://github.com/darshant15/Data-Analysis-Dashboard-On-Swiggy-Instamart-Sales-Report-/blob/fa491b7997befe793b6c58b3099cc1051874dc29/Swiggy-Instamart-project.xlsx">Dataset</a>
 
 ## Dashboard Interaction 
+<a href ="https://github.com/darshant15/Data-Analysis-Dashboard-On-Swiggy-Instamart-Sales-Report-/blob/25ace7a8ee35a2192c2ebb2b2da1a45131f6bc2c/DASHBOARD(SWIGGY).png">Darshboard</a>

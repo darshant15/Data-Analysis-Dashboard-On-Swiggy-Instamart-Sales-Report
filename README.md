@@ -50,3 +50,17 @@ In my recent Excel dashboard project for Swiggy Instamart, I focused on analyzin
 *Sales by Location: Mapping sales distribution geographically with funnel maps.
 
 *Overall Metrics by Outlet Type: A matrix card showing total sales, average sales, items sold, and ratings by outlet type.
+
+## Project Insights – Swiggy Instamart Sales Dashboard
+
+Fat Content Impact: Low-fat and regular items showed higher total sales, indicating customer preference towards healthier or commonly used products.
+
+Top-Performing Categories: Dairy, snacks, and beverages dominated sales, highlighting key revenue-driving item types.
+
+Outlet Performance: Newer outlets had slightly better sales, possibly due to better infrastructure or location.
+
+Outlet Size vs Sales: Medium-sized outlets contributed the most to sales, suggesting optimal operational balance.
+
+Location-Based Sales: Urban areas outperformed others, indicating higher demand and customer base in cities.
+
+Comprehensive Metrics: Metrics like average sales, total items sold, and customer ratings provided a well-rounded view of outlet performance and customer engagement.

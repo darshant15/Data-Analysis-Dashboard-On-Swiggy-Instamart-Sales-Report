@@ -8,7 +8,7 @@ This project involved building an interactive Excel dashboard using imaginary sa
 To conduct a comprehensive analysis of Swiggy Instamart's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power 
 
 ## Dataset Used 
-<a href ="https://github.com/darshant15/Data-Analysis-Dashboard-On-Swiggy-Instamart-Sales-Report-/blob/fa491b7997befe793b6c58b3099cc1051874dc29/Swiggy-Instamart-project.xlsx">Dataset</a>
+<a href ="https://github.com/darshant15/Data-Analysis-Dashboard-On-Swiggy-Instamart-Sales-Report/blob/7337ddd4b8050dc85075a69b13e6c086ec30370a/Swiggy%20Instamart%20Grocery%20Data%20Excel.xlsx">Dataset</a>
 
 ## Dashboard Interaction 
 <a href ="https://github.com/darshant15/Data-Analysis-Dashboard-On-Swiggy-Instamart-Sales-Report-/blob/25ace7a8ee35a2192c2ebb2b2da1a45131f6bc2c/DASHBOARD(SWIGGY).png">Darshboard</a>
